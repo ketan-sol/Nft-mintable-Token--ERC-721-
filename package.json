@@ -1,0 +1,20 @@
+{
+  "name": "nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.8",
+    "@ethereumjs/common": "^2.6.0",
+    "@ethereumjs/tx": "^3.4.0",
+    "@openzeppelin/contracts": "^4.4.0",
+    "dotenv": "^10.0.0",
+    "hdwalletprovider": "^1.7.0",
+    "web3": "^1.6.1"
+  }
+}
